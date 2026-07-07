@@ -1,4 +1,3 @@
-# senha-de-seguran-a
 # Gerador de Senhas Seguras
 
 Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é permitir que o usuário personalize e gere uma senha segura de forma simples e intuitiva.
@@ -34,6 +33,6 @@ Não é necessário instalar bibliotecas ou programas adicionais.
 
 Este projeto foi desenvolvido com o objetivo de praticar os conceitos de HTML, CSS e JavaScript, além de demonstrar a importância da criação de senhas fortes para aumentar a segurança digital.
 
-## Autor
+## Autora
 
-Desenvolvido por **Gabriel** como atividade prática de desenvolvimento web.
+Desenvolvido por **Gabrielly de Souza** como atividade prática de desenvolvimento web.
